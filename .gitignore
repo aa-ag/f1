@@ -1,6 +1,6 @@
 MANIFEST
 .ipynb_checkpoints
-
+kaggle.json
 build
 dist
 _build
