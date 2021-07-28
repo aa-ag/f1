@@ -1,0 +1,1 @@
+path_to_csv = '/Users/aaronaguerrevere/Documents/projects/f1/rohanrao/formula-1-world-championship-1950-2020?select=constructors.csv/constructors.csv'
