@@ -17,6 +17,11 @@ local_path_to_csv_file = settings.path_to_csv
 
 ############------------ FUNCTION(S) ------------############
 def upload_data_from_local_csv_to_google_sheets():
+    '''
+     reads/opens csv file from local path,
+     and imports data from csv to already connected/auth'd
+     sheets file via google drive's api's `import_csv` function
+    '''
     csv_file = open(local_path_to_csv_file, 'r')
 
     upload_data = csv_file.read()
