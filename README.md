@@ -8,4 +8,6 @@ Found an [Formula One data](https://www.kaggle.com/rohanrao/formula-1-world-cham
 - `conda install python`
 - `conda install pandas`
 - `conda install jupyter`
-- `conda install requests`
+- `conda install kaggle` 
+
+following documentation from https://www.kaggle.com/docs/api
