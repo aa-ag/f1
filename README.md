@@ -9,5 +9,7 @@ Found an [Formula One data](https://www.kaggle.com/rohanrao/formula-1-world-cham
 - `conda install pandas`
 - `conda install jupyter`
 - `conda install kaggle` 
+- `pip install gspread`
+- `pip install oauth2client`
 
 following documentation from https://www.kaggle.com/docs/api
