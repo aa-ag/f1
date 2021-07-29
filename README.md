@@ -15,5 +15,6 @@ was able to bring data down from Kaggle to local csv, and then uploaded that to 
 - `conda install kaggle` 
 - `pip install gspread`
 - `pip install oauth2client`
+- `pip install --upgrade google-api-python-client`
 
 following documentation from https://www.kaggle.com/docs/api
